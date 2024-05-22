@@ -1,4 +1,4 @@
-***Covid-19 Analysis and Visualization using Plotly Express**
+***Covid-19 Analysis and Visualization using Plotly Express***
 ***Overview**
 The article focuses on analyzing and visualizing Covid-19 data using Plotly Express in Python. The goal is to create high-quality visualizations, including bar charts, line graphs, bubble charts, and scatter plots, to help understand the Covid-19 pandemic's impact and trends.
 
