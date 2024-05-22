@@ -4,25 +4,25 @@ The article focuses on analyzing and visualizing Covid-19 data using Plotly Expr
 
 **Analysis and Visualization**
 
-*Data Analysis*: The project involves detailed data analysis to uncover patterns and trends in Covid-19 cases, recoveries, and fatalities worldwide.
+  **Data Analysis**: The project involves detailed data analysis to uncover patterns and trends in Covid-19 cases, recoveries, and fatalities worldwide.
 
 **Visualizations**: Using Plotly Express, the article demonstrates how to create various types of visualizations:
 
-*Bar Charts*: Used to compare Covid-19 case numbers across different countries or regions.
+  **Bar Charts**: Used to compare Covid-19 case numbers across different countries or regions.
 
-*Line Graphs*: Ideal for showing trends over time, such as the rise and fall of daily cases.
+  **Line Graphs**: Ideal for showing trends over time, such as the rise and fall of daily cases.
 
-*Bubble Charts*: Helpful in visualizing the magnitude of cases relative to other variables, like population size.
+  **Bubble Charts**: Helpful in visualizing the magnitude of cases relative to other variables, like population size.
 
-*Scatter Plots*: Used to identify correlations between different variables, such as cases and deaths.
+  **Scatter Plots**: Used to identify correlations between different variables, such as cases and deaths.
 
 **Key Insights**
 
-*Understanding Trends*: Line graphs and scatter plots reveal the trajectory of the pandemic, showing peaks and declines in cases over time.
+  **Understanding Trends**: Line graphs and scatter plots reveal the trajectory of the pandemic, showing peaks and declines in cases over time.
 
-*Comparative Analysis*: Bar charts allow for a comparative analysis between countries or regions, highlighting those with the highest or lowest case numbers.
+  **Comparative Analysis**: Bar charts allow for a comparative analysis between countries or regions, highlighting those with the highest or lowest case numbers.
 
-*Impact Visualization*: Bubble charts visually emphasize the scale of the pandemic’s impact in different areas, aiding in understanding the relative severity.
+  **Impact Visualization**: Bubble charts visually emphasize the scale of the pandemic’s impact in different areas, aiding in understanding the relative severity.
 
 
 **Conclusion**
